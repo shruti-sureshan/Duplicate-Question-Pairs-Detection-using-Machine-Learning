@@ -7,7 +7,7 @@ https://github.com/maanavshah/quora-question-pairs   --- tested---working
 Various ML models: https://github.com/Ayush9719/Quora-Question-Pair
 
 Deployed:
-https://github.com/aditya-5842/quora-question-pairs
+https://github.com/aditya-5842/quora-question-pairs  --- (afterwards)
 
 
 
