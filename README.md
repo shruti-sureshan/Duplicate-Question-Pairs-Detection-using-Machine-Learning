@@ -11,6 +11,12 @@ LSTM Implementation
 Deployed:
 https://github.com/aditya-5842/quora-question-pairs  --- (afterwards)
 
+Future scope:
+As a continuation to our project, in the future, a similar approach can be implemented for various other search engines that are
+available like reedit, stack overflow, etc. This will ensure that search engines are user-friendly. Furthermore, the best models of
+each type (linear, tree-based, and neural network) can be grouped. Additionally, more features for the tree-based models can
+also be designed.
+
 References:
 1. Z. Imtiaz, M. Umer, M. Ahmad, S. Ullah, G. S. Choi and A. Mehmood, "Duplicate Questions Pair Detection Using Siamese MaLSTM," in IEEE Access, vol. 8, pp. 21932-21942, 2020, doi: 10.1109/ACCESS.2020.2969041.
 2. Anishaa VKR, Sathvika P, Rawat S. (2021) Identifying Similar Question Pairs Using Machine Learning Techniques. Indian Journal of Science and Technology. 14(20):1635-1641. 
