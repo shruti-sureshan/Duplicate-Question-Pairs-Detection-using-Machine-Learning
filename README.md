@@ -31,4 +31,4 @@ References:
 
 
 
-SGD, SVM, XGBoost
+log reg, SVM, XGBoost
