@@ -33,6 +33,6 @@ References:
 
 log reg, SVM, XGBoost
 
-PPT pending
-code done
+PPT pending, 
+code done, 
 report done
