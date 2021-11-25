@@ -1,4 +1,4 @@
-# Machine-Learning-Course-Project
+# Duplicate-Question-Pairs-Detection-using-Machine-Learning
 
 Duplicate Question Pairs Detection  (Quora)<br/>
 Links:
