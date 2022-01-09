@@ -2,7 +2,7 @@
 
 Duplicate Question Pairs Detection  (Quora)<br/>
 Links:
-https://github.com/maanavshah/quora-question-pairs   --- tested---working
+https://github.com/maanavshah/quora-question-pairs   --- tested---working-- DONE
 
 Various ML models: https://github.com/Ayush9719/Quora-Question-Pair
 
